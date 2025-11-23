@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ekaprojekti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8fcd8d32adb0165b920f9441bdd5f60019da067")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ekaprojekti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ekaprojekti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

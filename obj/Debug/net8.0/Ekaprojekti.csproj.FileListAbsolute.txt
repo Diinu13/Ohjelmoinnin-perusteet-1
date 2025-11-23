@@ -1,0 +1,14 @@
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/bin/Debug/net8.0/Ekaprojekti
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/bin/Debug/net8.0/Ekaprojekti.deps.json
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/bin/Debug/net8.0/Ekaprojekti.runtimeconfig.json
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/bin/Debug/net8.0/Ekaprojekti.dll
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/bin/Debug/net8.0/Ekaprojekti.pdb
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/obj/Debug/net8.0/Ekaprojekti.GeneratedMSBuildEditorConfig.editorconfig
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/obj/Debug/net8.0/Ekaprojekti.AssemblyInfoInputs.cache
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/obj/Debug/net8.0/Ekaprojekti.AssemblyInfo.cs
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/obj/Debug/net8.0/Ekaprojekti.csproj.CoreCompileInputs.cache
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/obj/Debug/net8.0/Ekaprojekti.dll
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/obj/Debug/net8.0/refint/Ekaprojekti.dll
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/obj/Debug/net8.0/Ekaprojekti.pdb
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/obj/Debug/net8.0/Ekaprojekti.genruntimeconfig.cache
+/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/obj/Debug/net8.0/ref/Ekaprojekti.dll
