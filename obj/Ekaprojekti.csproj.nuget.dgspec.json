@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/Ekaprojekti.csproj": {}
+  },
+  "projects": {
+    "/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/Ekaprojekti.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/Ekaprojekti.csproj",
+        "projectName": "Ekaprojekti",
+        "projectPath": "/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/Ekaprojekti.csproj",
+        "packagesPath": "/home/markusrahkonen/.nuget/packages/",
+        "outputPath": "/home/markusrahkonen/Ohjelmointi-1/koodit/Ekaprojekti/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/markusrahkonen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/var/snap/dotnet/common/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
