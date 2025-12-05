@@ -1,0 +1,15 @@
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\obj\Debug\net10.0\Toistolauseharjoitukset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\obj\Debug\net10.0\Toistolauseharjoitukset.AssemblyInfoInputs.cache
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\obj\Debug\net10.0\Toistolauseharjoitukset.AssemblyInfo.cs
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\obj\Debug\net10.0\Toistolauseharjoitukset.csproj.CoreCompileInputs.cache
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\obj\Debug\net10.0\Toistolauseharjoitukset.sourcelink.json
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\bin\Debug\net10.0\Toistolauseharjoitukset.exe
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\bin\Debug\net10.0\Toistolauseharjoitukset.deps.json
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\bin\Debug\net10.0\Toistolauseharjoitukset.runtimeconfig.json
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\bin\Debug\net10.0\Toistolauseharjoitukset.dll
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\bin\Debug\net10.0\Toistolauseharjoitukset.pdb
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\obj\Debug\net10.0\Toistolauseharjoitukset.dll
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\obj\Debug\net10.0\refint\Toistolauseharjoitukset.dll
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\obj\Debug\net10.0\Toistolauseharjoitukset.pdb
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\obj\Debug\net10.0\Toistolauseharjoitukset.genruntimeconfig.cache
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Toistolauseharjoitukset\Toistolauseharjoitukset\obj\Debug\net10.0\ref\Toistolauseharjoitukset.dll
