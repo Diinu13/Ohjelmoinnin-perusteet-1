@@ -1,0 +1,15 @@
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\obj\Debug\net10.0\Laskinsovellus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\obj\Debug\net10.0\Laskinsovellus.AssemblyInfoInputs.cache
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\obj\Debug\net10.0\Laskinsovellus.AssemblyInfo.cs
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\obj\Debug\net10.0\Laskinsovellus.csproj.CoreCompileInputs.cache
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\obj\Debug\net10.0\Laskinsovellus.sourcelink.json
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\bin\Debug\net10.0\Laskinsovellus.exe
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\bin\Debug\net10.0\Laskinsovellus.deps.json
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\bin\Debug\net10.0\Laskinsovellus.runtimeconfig.json
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\bin\Debug\net10.0\Laskinsovellus.dll
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\bin\Debug\net10.0\Laskinsovellus.pdb
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\obj\Debug\net10.0\Laskinsovellus.dll
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\obj\Debug\net10.0\refint\Laskinsovellus.dll
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\obj\Debug\net10.0\Laskinsovellus.pdb
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\obj\Debug\net10.0\Laskinsovellus.genruntimeconfig.cache
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Laskinsovellus\Laskinsovellus\obj\Debug\net10.0\ref\Laskinsovellus.dll
