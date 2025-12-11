@@ -1,0 +1,15 @@
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\bin\Debug\net10.0\Satunnaisgeneraattori.exe
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\bin\Debug\net10.0\Satunnaisgeneraattori.deps.json
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\bin\Debug\net10.0\Satunnaisgeneraattori.runtimeconfig.json
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\bin\Debug\net10.0\Satunnaisgeneraattori.dll
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\bin\Debug\net10.0\Satunnaisgeneraattori.pdb
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\obj\Debug\net10.0\Satunnaisgeneraattori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\obj\Debug\net10.0\Satunnaisgeneraattori.AssemblyInfoInputs.cache
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\obj\Debug\net10.0\Satunnaisgeneraattori.AssemblyInfo.cs
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\obj\Debug\net10.0\Satunnaisgeneraattori.csproj.CoreCompileInputs.cache
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\obj\Debug\net10.0\Satunnaisgeneraattori.sourcelink.json
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\obj\Debug\net10.0\Satunnaisgeneraattori.dll
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\obj\Debug\net10.0\refint\Satunnaisgeneraattori.dll
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\obj\Debug\net10.0\Satunnaisgeneraattori.pdb
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\obj\Debug\net10.0\Satunnaisgeneraattori.genruntimeconfig.cache
+C:\Users\marku\Ohjelmoinnin-perusteet-1\Satunnaisgeneraattori\Satunnaisgeneraattori\obj\Debug\net10.0\ref\Satunnaisgeneraattori.dll
