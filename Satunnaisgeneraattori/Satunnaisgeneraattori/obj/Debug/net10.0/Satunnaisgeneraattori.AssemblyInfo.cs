@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Satunnaisgeneraattori")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88589ec72ba4db5d9f5cbc58abd86e172baaef30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ad20f61718f71f64882f5b29645932890509a45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Satunnaisgeneraattori")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Satunnaisgeneraattori")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
